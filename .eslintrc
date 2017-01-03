@@ -1,0 +1,18 @@
+{
+  "root": true,
+  "extends": [
+    "emarsys"
+  ],
+  "env": {
+    "es6": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "no-unused-expressions": 0,
+    "security/detect-object-injection": 0
+  },
+  "globals": {
+    "window": true
+  }
+}
