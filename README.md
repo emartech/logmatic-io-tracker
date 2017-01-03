@@ -1,4 +1,4 @@
-[ ![Codeship Status for emartech/logmatic-io-tracker](https://app.codeship.com/projects/32f66b00-b34e-0134-bf3f-2a924262b5e8/status?branch=master)](https://app.codeship.com/projects/193456)
+[![Codeship Status for emartech/logmatic-io-tracker](https://app.codeship.com/projects/510d1580-b3c2-0134-1efa-1ec4f5713571/status?branch=master)](https://app.codeship.com/projects/193525)
 
 # logmatic-io-tracker
 Sends tracking events to Logmatic.io. Good to measure events during page load.
