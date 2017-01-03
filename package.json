@@ -16,6 +16,7 @@
     "code-style": "eslint $(find . -name \"*.js\" -not -path \"./node_modules/*\" -not -path \"./dist/*\")",
     "build": "rm -rf dist/* && babel lib --ignore *.spec.js --out-dir dist --source-maps",
     "validate-commit-msg": "validate-commit-msg",
+    "prepublish": "npm run build",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "author": "Emarsys",
