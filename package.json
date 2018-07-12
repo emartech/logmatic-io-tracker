@@ -20,7 +20,7 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "author": "Emarsys",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "logmatic-js": "1.1.0"
   },
